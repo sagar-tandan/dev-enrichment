@@ -3,6 +3,8 @@
 ### 🟢 Node.js Learning Materials (Ongoing)
 - 📄 [Introduction to Server-Side Development with Node.js](./NodeJS/1.%20Introduction%20to%20Server-Side%20Development%20with%20Node.js.md)
 - 📄 [Introduction to Express.js](./NodeJS/2.%20Introduction%20to%20express.js.md)
+- 📄 [Database Connection](./NodeJS/3.%20Database%20Connection.md)
+- 📄 [Understanding MVC and MVCR in Express.js](./NodeJS/4.%20Understanding%20MVC%20and%20MVCR%20in%20Express.js.md)
 
 ### 🟦 Other Folders
 - 📁 [Portfolio](./Portfolio/)
